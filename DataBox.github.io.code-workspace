@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Boxxxi"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DataBox.github.io"
+	}
+}
